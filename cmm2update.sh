@@ -14,9 +14,9 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 # Copyright 2018-2020 Alessandro "Locutus73" Miele
-
+# Copyright 2021 John "Jay" Crutti
 # You can download the latest version of this script from:
-# https://github.com/MiSTer-devel/Updater_script_MiSTer
+# https://github.com/frnno967/cmm2_software_archive
 
 
 
